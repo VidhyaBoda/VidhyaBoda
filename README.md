@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VidhyaBoda
-- 🌱 I’m currently study in computer science engineering.
+- 🌱 I’m currently study in Computer Science Engineering.
 
 <!---
 VidhyaBoda/VidhyaBoda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
