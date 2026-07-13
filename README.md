@@ -131,7 +131,7 @@ Context-Aware Response
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" alt="Development Tools"/> &nbsp;&nbsp; <img src="https://img.icons8.com/color/48/google-colab.png" height="48" alt="Google Colab"/> </p>
 
-Git · GitHub · Google Colab · VS Code
+**Git** · **GitHub** · **VS Code** · **Google Colab** 
 
 ---
 
