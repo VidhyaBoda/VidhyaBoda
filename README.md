@@ -17,9 +17,9 @@
 <br>
 
 <div align="center">
-  <img src="data-animation.gif"
-       width="500"
-       alt="Data Analytics and AI Animation">
+  <img src="profile-animation.gif"
+       width="850"
+       alt="Vidhya Boda - Data Analytics and AI Workspace">
 </div>
 
 <br>
