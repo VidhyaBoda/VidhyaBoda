@@ -14,6 +14,14 @@
 
 </div>
 
+<br>
+
+<div align="center">
+  <img src="YOUR_GIF_URL" width="500" alt="Data Analytics and AI Animation"/>
+</div>
+
+<br>
+
 ---
 
 ## ◈ ABOUT ME
