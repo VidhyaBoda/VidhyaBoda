@@ -17,7 +17,9 @@
 <br>
 
 <div align="center">
-  <img src="YOUR_GIF_URL" width="500" alt="Data Analytics and AI Animation"/>
+  <img src="./assets/data-ai-animation.gif"
+       width="500"
+       alt="Data Analytics, AI and Data Engineering Animation"/>
 </div>
 
 <br>
