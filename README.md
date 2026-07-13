@@ -14,16 +14,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-  <img src="profile-animation.gif"
-       width="850"
-       alt="Vidhya Boda - Data Analytics and AI Workspace">
-</div>
-
-<br>
-
 ---
 
 ## ◈ ABOUT ME
