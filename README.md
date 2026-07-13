@@ -129,13 +129,9 @@ Context-Aware Response
 
 ### 06 — TOOLS & DEVELOPMENT ENVIRONMENT
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" height="48" alt="Git, GitHub, VS Code and Jupyter Notebook"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height="48" alt="Google Colab"/>
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" alt="Development Tools"/> &nbsp;&nbsp; <img src="https://img.icons8.com/color/48/google-colab.png" height="48" alt="Google Colab"/> </p>
 
-**Git** · **GitHub** · **VS Code** · **Jupyter Notebook** · **Google Colab**
+Git · GitHub · Google Colab · VS Code
 
 ---
 
